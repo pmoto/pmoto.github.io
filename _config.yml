@@ -4,14 +4,11 @@ version: "1.0"
 permalink: /:year/:month/:day/:title/
 
 # 站点设置
-title: "Guovz"
-email: pzhuwjl@qq.com
-description: "王继林的个人博客"
-keywords: "Guovz"
+title: "p. moto"
+email: 
+description: ""
+keywords: "pmoto"
 
-# 用户信息设置
-weibo_username: Guovz
-github_username: guovz
 
 # Markdown设置
 kramdown:
@@ -35,9 +32,3 @@ paginate_path: "page/:num"
 sass:
     sass_dir: /assets/stylesheet
     style: :compressed
-
-# duoshuo设置
-# duoshuo_shortname: 
-
-# 百度统计设置
-# baidu_analysis:
